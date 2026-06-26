@@ -5,6 +5,7 @@ Solving Dsa LOL !)
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit-1030/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0904-fruit-into-baskets](https://github.com/rohit-1030/DSA/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -14,4 +15,12 @@ Solving Dsa LOL !)
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/rohit-1030/DSA/tree/master/0904-fruit-into-baskets) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit-1030/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit-1030/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
